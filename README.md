@@ -1,4 +1,4 @@
-# CSE 437A Week 2: Build a To-Do App
+# CSE 437s Week 2: Build a To-Do App
 
 This assignment challenges you to design and build a simple to-do application using your chosen programming language. The app should allow users to create, manage, and track their tasks.
 
